@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Non on Cities</title>
+    <link>https://nonsmartcity.medium.com</link>
+    <atom:link href="https://agentic-ai-research.github.io/non-podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
+    <language>en</language>
+    <copyright>© 2026 Dr Non Arkara</copyright>
+    <description>Sharp takes on cities, urbanism, and Thailand's urban future. By Dr Non Arkara.</description>
+    <itunes:author>Dr Non Arkara</itunes:author>
+    <itunes:owner>
+      <itunes:name>Dr Non Arkara</itunes:name>
+      <itunes:email></itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://agentic-ai-research.github.io/non-podcast-feed/cover.png"/>
+    <itunes:category text="Technology">
+      <itunes:category text="Society &amp; Culture"/>
+    </itunes:category>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Definition of Love</title>
+      <description><![CDATA[Love is not possession. A meditation on Schopenhauer, Kant, Sartre, and the contradiction of wanting to be loved unconditionally while theorizing non-possessive love.]]></description>
+      <pubDate>Sat, 02 May 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://agentic-ai-research.github.io/non-podcast-feed/audio/ep001.mp3" length="3910888" type="audio/mpeg"/>
+      <guid isPermaLink="false">c656ba35fab18af473e004d2ebb383f9a291db6d</guid>
+      <itunes:duration>00:04:04</itunes:duration>
+      <itunes:image href="https://agentic-ai-research.github.io/non-podcast-feed/cover.png"/>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episode>1</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+  </channel>
+</rss>
