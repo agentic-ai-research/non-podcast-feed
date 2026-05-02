@@ -22,6 +22,18 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>The One-Person Company</title>
+      <description><![CDATA[Why humans are the weakest link, why ninjas pick pencils over nuclear bombs, and why architects who scale stop being architects. A meditation on solo entrepreneurship in the age of AI agents.]]></description>
+      <pubDate>Sun, 03 May 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://agentic-ai-research.github.io/non-podcast-feed/audio/ep002.mp3" length="4099805" type="audio/mpeg"/>
+      <guid isPermaLink="false">2de610d3a6f108c052a81b9668f8a8c7c93261ce</guid>
+      <itunes:duration>00:04:16</itunes:duration>
+      <itunes:image href="https://agentic-ai-research.github.io/non-podcast-feed/cover.png"/>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episode>2</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
       <title>Definition of Love</title>
       <description><![CDATA[Love is not possession. A meditation on Schopenhauer, Kant, Sartre, and the contradiction of wanting to be loved unconditionally while theorizing non-possessive love.]]></description>
       <pubDate>Sat, 02 May 2026 00:00:00 +0000</pubDate>
