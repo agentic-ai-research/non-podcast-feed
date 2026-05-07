@@ -22,6 +22,18 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Designated Survivor: Bangkok</title>
+      <description><![CDATA[Episode ep003: Designated Survivor: Bangkok]]></description>
+      <pubDate>Fri, 08 May 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://agentic-ai-research.github.io/non-podcast-feed/audio/ep003.mp3" length="4021647" type="audio/mpeg"/>
+      <guid isPermaLink="false">a54c70d3c6a90f9e2bbe402d264efb20208f9d43</guid>
+      <itunes:duration>00:04:11</itunes:duration>
+      <itunes:image href="https://agentic-ai-research.github.io/non-podcast-feed/covers/ep003.png"/>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episode>3</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
       <title>The One-Person Company</title>
       <description><![CDATA[Why humans are the weakest link, why ninjas pick pencils over nuclear bombs, and why architects who scale stop being architects. A meditation on solo entrepreneurship in the age of AI agents.]]></description>
       <pubDate>Sun, 03 May 2026 00:00:00 +0000</pubDate>
