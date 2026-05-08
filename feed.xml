@@ -22,6 +22,18 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>125: Fragments, Chapter 1</title>
+      <description><![CDATA[Episode ep004: 125: Fragments, Chapter 1]]></description>
+      <pubDate>Sat, 09 May 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://agentic-ai-research.github.io/non-podcast-feed/audio/ep004.mp3" length="4086431" type="audio/mpeg"/>
+      <guid isPermaLink="false">d8d6a37a9f354a1b65c7f0bf74c423ea6e114ec2</guid>
+      <itunes:duration>00:04:15</itunes:duration>
+      <itunes:image href="https://agentic-ai-research.github.io/non-podcast-feed/covers/ep004.png"/>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episode>4</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
       <title>Designated Survivor: Bangkok</title>
       <description><![CDATA[Episode ep003: Designated Survivor: Bangkok]]></description>
       <pubDate>Fri, 08 May 2026 00:00:00 +0000</pubDate>
