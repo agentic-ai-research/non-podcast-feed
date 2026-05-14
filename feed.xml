@@ -22,6 +22,18 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>124: The Only Thing That Matters</title>
+      <description><![CDATA[Episode ep005: 124: The Only Thing That Matters]]></description>
+      <pubDate>Fri, 15 May 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://agentic-ai-research.github.io/non-podcast-feed/audio/ep005.mp3" length="4942411" type="audio/mpeg"/>
+      <guid isPermaLink="false">ee7acf3a3ba782c7e022b58df0db0d5e4905b015</guid>
+      <itunes:duration>00:05:08</itunes:duration>
+      <itunes:image href="https://agentic-ai-research.github.io/non-podcast-feed/cover.png"/>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episode>5</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
       <title>125: Fragments, Chapter 1</title>
       <description><![CDATA[Episode ep004: 125: Fragments, Chapter 1]]></description>
       <pubDate>Sat, 09 May 2026 00:00:00 +0000</pubDate>
