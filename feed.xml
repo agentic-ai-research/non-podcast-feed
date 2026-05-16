@@ -22,6 +22,18 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Day 123: Confidence Is Built by Failing. Full Stop.</title>
+      <description><![CDATA[Episode ep006: Day 123: Confidence Is Built by Failing. Full Stop.]]></description>
+      <pubDate>Sun, 17 May 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://agentic-ai-research.github.io/non-podcast-feed/audio/ep006.mp3" length="3503795" type="audio/mpeg"/>
+      <guid isPermaLink="false">d4df58bd2450dacbe8ea4f12060e354089574e53</guid>
+      <itunes:duration>00:03:38</itunes:duration>
+      <itunes:image href="https://agentic-ai-research.github.io/non-podcast-feed/cover.png"/>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episode>6</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
       <title>124: The Only Thing That Matters</title>
       <description><![CDATA[Episode ep005: 124: The Only Thing That Matters]]></description>
       <pubDate>Fri, 15 May 2026 00:00:00 +0000</pubDate>
