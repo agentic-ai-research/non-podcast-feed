@@ -22,6 +22,18 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Day 119: A Return to This Blog and Simulation Theory</title>
+      <description><![CDATA[Episode ep010: Day 119: A Return to This Blog and Simulation Theory]]></description>
+      <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://agentic-ai-research.github.io/non-podcast-feed/audio/ep010.mp3" length="4347237" type="audio/mpeg"/>
+      <guid isPermaLink="false">f8f64bb99e800518f8fca31b6b040c9f9c8b5908</guid>
+      <itunes:duration>00:04:31</itunes:duration>
+      <itunes:image href="https://agentic-ai-research.github.io/non-podcast-feed/cover.png"/>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episode>10</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
       <title>Day 120: Daniel Kahmeman</title>
       <description><![CDATA[Episode ep009: Day 120: Daniel Kahmeman]]></description>
       <pubDate>Wed, 20 May 2026 00:00:00 +0000</pubDate>
